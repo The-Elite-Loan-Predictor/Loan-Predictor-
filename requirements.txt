@@ -8,3 +8,10 @@ joblib
 jupyter
 notebook
 ipykernel
+imbalanced-learn
+<<<<<<< HEAD
+xgboost
+lightgbm
+=======
+xgboost
+>>>>>>> b12579d80cc0bad6e9254b10036231978ad09e3f
